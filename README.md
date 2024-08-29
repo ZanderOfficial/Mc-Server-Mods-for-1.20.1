@@ -1,5 +1,1 @@
-- **Just Enough Items (JEI)**: Essential mod for item management and crafting recipes
-- **Create: New Age**: Adds complex machinery and automation possibilities
-- Additional Enchanted Miner: Expands mining capabilities with new enchantments
-- Minecraft Forge: Required modding platform for installing and running these mods
-- - **Better MC [FORGE] - BMC4**: Comprehensive modpack enhancing overall gameplay experience (upload unavaliable) 
+
